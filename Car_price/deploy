@@ -1,0 +1,5 @@
+Deploy model with the files which have extension of ".pkl".
+
+You can deploy models with various methods like Streamlit, Flask, FastAPI, etc.
+
+Save model with joblib or pickle.
